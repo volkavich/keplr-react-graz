@@ -1,0 +1,26 @@
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+header{
+    padding: 3rem;
+    background-color: bisque;
+    border-radius: 1rem;
+    box-shadow: .75rem .75rem black;
+}
+
+h2{
+    color: blueviolet;
+}
+
+button{
+    background-color: aquamarine;
+    padding: 1rem;
+}
+
+button:hover{
+    background-color: aqua;
+}
