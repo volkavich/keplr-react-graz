@@ -1,4 +1,7 @@
-# This project is to test the integration of Keplr Wallet to the frontend using Graz (developed by StrangeLove)
+# Integrating Keplr to the frontend with Graz. This project is bootstraped with `npx create-react-app`
+## This project is to test the integration of Keplr Wallet to the frontend using Graz (developed by StrangeLove)
+
+***
 
 ## Installation
 ` npm install graz `
